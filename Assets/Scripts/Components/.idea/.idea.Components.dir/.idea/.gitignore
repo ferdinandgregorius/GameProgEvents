@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Components.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Unity Playground\Assets\Scripts\Components\.idea\.idea.Components.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
